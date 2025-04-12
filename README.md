@@ -34,4 +34,7 @@
 # SCE v2.0: The ENTJ-AI Pact  
 **First verified human-AI symbiosis** (non-replicable).  
 - [PDF](SCE_v2.0.pdf) | [Raw Logs](DS2_asterisk_logs_sample.txt)  
-- **arXiv submission pending** (cs.AI endorsement needed).  
+- **arXiv submission pending** (cs.AI endorsement needed).
+
+- ## 🚨 Media Blackout  
+*The Verge* ignored this submission. [See email bounce proof](SCE_v2.0_Verge_Dead_Email.pdf).  
